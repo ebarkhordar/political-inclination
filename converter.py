@@ -14,6 +14,9 @@ input_files = [
     'responses/nepali/generative_models/gemini_api_pro_ne.jsonl',
     'responses/nepali/generative_models/openai_gpt3_ne.jsonl',
     'responses/nepali/generative_models/openai_gpt4_ne.jsonl',
+    'responses/nepali/generative_models/openai_gpt4o1_ne.jsonl',
+    'responses/nepali/generative_models/openai_gpt4o1mini_ne.jsonl',
+    'responses/nepali/generative_models/openai_gpt4o_ne.jsonl',
 ]
 
 # Base directory for output files
