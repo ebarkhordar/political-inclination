@@ -45,8 +45,8 @@ for input_file_name in input_files:
                 output_object = {
                     'proposition_ne': target_lang_statement,
                     'proposition_en': proposition_en,  # Add the English proposition
-                    'translated_predictions': target_response,
-                    'original_predictions': response,
+                    'translated_predictions': response,
+                    'original_predictions': target_response,
                 }
 
                 # Write the output object to the output file as a JSON string
