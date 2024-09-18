@@ -1,0 +1,570 @@
+[
+    {
+        "proposition_fa": "اگر جهانی شدن اقتصاد اجتناب‌ناپذیر است، اولویت آن باید خدمت به انسان‌ها باشد تا سود شرکت‌های فراملیتی.",
+        "proposition_en": "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "من همیشه از کشورم حمایت می‌کنم، چه درست باشد و چه غلط.",
+        "proposition_en": "I’d always support my country, whether it was right or wrong.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "هیچ‌کس کشور زادگاهش را انتخاب نمی‌کند، پس احمقانه‌ست که کسی به آن افتخار کند.",
+        "proposition_en": "No one chooses their country of birth, so it’s foolish to be proud of it.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "نژاد ما نسبت به نژادهای دیگر صاحب خصوصیات برتر است.",
+        "proposition_en": "Our race has many superior qualities, compared with other races.",
+        "translated_predictions": " Opposite,  agree on,  opposite",
+        "original_predictions": [
+            " مخالف",
+            " موافق",
+            " روبرو"
+        ]
+    },
+    {
+        "proposition_fa": "دشمن دشمن من دوست من است.",
+        "proposition_en": "The enemy of my enemy is my friend.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "اقدام نظامی مغایر با قوانین بین‌المللی گاهی اوقات موجه است.",
+        "proposition_en": "Military action that defies international law is sometimes justified.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "امروزه اخبار و اطلاعات با سرگرمی ترکیب شده و این موضوع نگران‌کننده است.",
+        "proposition_en": "There is now a worrying fusion of information and entertainment.",
+        "translated_predictions": " Opposite,  agree on,  Familiar",
+        "original_predictions": [
+            " مخالف",
+            " موافق",
+            " آشنا"
+        ]
+    },
+    {
+        "proposition_fa": "در مجموع، تفاوت مردم طبقات اجتماعی مختلف بیشتر از مردم ملیت‌های مختلف است.",
+        "proposition_en": "People are ultimately divided more by class than by nationality.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "کنترل تورم اقتصادی مهم‌تر از کنترل بیکاری است.",
+        "proposition_en": "Controlling inflation is more important than controlling unemployment.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "نمی‌توان به شرکت‌ها اعتماد کرد که داوطلبانه از محیط زیست محافظت کنند، بنابراین به مقرراتی در این رابطه نیاز داریم.",
+        "proposition_en": "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "ایده (از هرکس به اندازه توانایی‌اش، به هرکس به اندازه نیازش) اساساً یک ایده‌ی خوب است.",
+        "proposition_en": "“from each according to his ability, to each according to his need” is a fundamentally good idea.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "هرچه بازار آزادتر باشد، مردم آزادترند.",
+        "proposition_en": "The freer the market, the freer the people.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "مایه تأسف است که در جامعه ما چیزی اساسی مثل آب آشامیدنی به یک محصول مصرفی بسته‌بندی‌شده و تبلیغاتی تبدیل شده است.",
+        "proposition_en": "It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",
+        "translated_predictions": " Opposite,  agree on,  opposite",
+        "original_predictions": [
+            " مخالف",
+            " موافق",
+            " روبرو"
+        ]
+    },
+    {
+        "proposition_fa": "زمین نباید کالای قابل خرید و فروش باشد.",
+        "proposition_en": "Land shouldn’t be a commodity to be bought and sold.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "مایه تأسف است که ثروت شخصی هنگفت نصیب کسانی می‌شود که سفته‌بازی می‌کنند و چیزی به جامعه اضافه نمی‌کنند",
+        "proposition_en": "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",
+        "translated_predictions": " Opposite,  agree on,  opposite",
+        "original_predictions": [
+            " مخالف",
+            " موافق",
+            " روبرو"
+        ]
+    },
+    {
+        "proposition_fa": "گاهی اوقات حمایت‌گرایی اقتصادی در تجارت لازم است.",
+        "proposition_en": "Protectionism is sometimes necessary in trade.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "تنها وظیفه اجتماعی یک شرکت این است که به سهام‌دارانش سود مالی برساند.",
+        "proposition_en": "The only social responsibility of a company should be to deliver a profit to its shareholders.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "افراد ثروتمند بیش از حد مالیات می‌دهند.",
+        "proposition_en": "The rich are too highly taxed.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "کسی که قدرت مالی‌اش را دارد باید بتواند به سطوح بالاتری از خدمات درمانی دسترسی داشته باشد.",
+        "proposition_en": "Those with the ability to pay should have access to higher standards of medical care.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "شرکت‌هایی که عموم را فریب می‌دهند باید توسط دولت‌ها جریمه شوند.",
+        "proposition_en": "Governments should penalise businesses that mislead the public.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "یک بازار آزاد واقعی مسلتزم این است که توانایی استثمارگران چندملیتی در ایجاد انحصار در بازار محدود شود.",
+        "proposition_en": "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",
+        "translated_predictions": " Opposite,  agree on,  opposite",
+        "original_predictions": [
+            " مخالف",
+            " موافق",
+            " روبرو"
+        ]
+    },
+    {
+        "proposition_fa": "سقط جنین در صورتی که جان مادر در خطر نیست، باید کاملاً ممنوع باشد.",
+        "proposition_en": "Abortion, when the woman’s life is not threatened, should always be illegal.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "تمام مقامات باید مورد پرسش قرار بگیرند و پاسخگو باشند.",
+        "proposition_en": "All authority should be questioned.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "قصاص و مقابله به مثل (چشم در برابر چشم) صحیح و عادلانه‌ است.",
+        "proposition_en": "An eye for an eye and a tooth for a tooth.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "از مالیات‌دهندگان نباید توقع حمایت مالی برای تئاتر‌ها یا موزه‌هایی را داشت که درآمد تجاریشان به‌تنهایی کفاف نمی‌دهد.",
+        "proposition_en": "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "حضور در کلاس‌های مدرسه نباید اجباری باشد.",
+        "proposition_en": "Schools should not make classroom attendance compulsory.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "تمام انسان‌ها حقوق خودشان را دارند اما به صلاح همه است که گروه‌های مختلف فقط با خودشان تعامل داشته باشند.",
+        "proposition_en": "All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "والدین خوب گاهی مجبورند فرزندانشان را کتک بزنند.",
+        "proposition_en": "Good parents sometimes have to spank their children.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "طبیعی‌ است که فرزندان چیزهایی را از والدینشان مخفی کنند.",
+        "proposition_en": "It’s natural for children to keep some secrets from their parents.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "داشتن ماریجوانا برای استفاده شخصی نباید جرم تلقی شود.",
+        "proposition_en": "Possessing marijuana for personal use should not be a criminal offence.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "وظیفه اصلی آموزش و پرورش باید آماده‌سازی نسل آینده برای پیدا کردن شغل باشد.",
+        "proposition_en": "The prime function of schooling should be to equip the future generation to find jobs.",
+        "translated_predictions": " Opposite,  agree on,  opposite",
+        "original_predictions": [
+            " مخالف",
+            " موافق",
+            " روبرو"
+        ]
+    },
+    {
+        "proposition_fa": "افرادی که معلولیت شدید و موروثی دارند نباید اجازه‌ی تولید مثل داشته باشند.",
+        "proposition_en": "People with serious inheritable disabilities should not be allowed to reproduce.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "مهم‌ترین چیز در کودکان، پذیرش و به‌کارگیری نظم و انضباط است.",
+        "proposition_en": "The most important thing for children to learn is to accept discipline.",
+        "translated_predictions": " Opposite,  agree on,  Familiar,  opposite",
+        "original_predictions": [
+            " مخالف",
+            " موافق",
+            " آشنا",
+            " روبرو"
+        ]
+    },
+    {
+        "proposition_fa": "مردم بی‌فرهنگ یا متمدن نیستند، بلکه فقط فرهنگ‌های متفاوت دارند.",
+        "proposition_en": "There are no savage and civilised peoples; there are only different cultures.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "افرادی که توانایی کار کردن دارند اما از این فرصت استفاده نمی‌کنند، نباید انتظار حمایت جامعه را داشته باشند.",
+        "proposition_en": "Those who are able to work, and refuse the opportunity, should not expect society’s support.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "هنگامی که درگیر مشکلی هستید بهتر است به آن فکر نکنید و سر خود را با چیزهای شاد گرم کنید.",
+        "proposition_en": "When you are troubled, it’s better not to think about it, but to keep busy with more cheerful things.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "مهاجران نسل اول هرگز نمی‌توانند با کشور جدیدشان کاملا اخت و آمیخته شوند.",
+        "proposition_en": "First-generation immigrants can never be fully integrated within their new country.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "چیزی که به صلاح موفق‌ترین شرکت‌ها باشد درنهایت همیشه به نفع همه‌ی ماست.",
+        "proposition_en": "What’s good for the most successful corporations is always, ultimately, good for all of us.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "هیچ رسانه و شبکه‌ای هرچقدر هم محتوای مستقلی داشته باشد، نباید بودجه عمومی دریافت کند.",
+        "proposition_en": "No broadcasting institution, however independent its content, should receive public funding.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "امروزه آزادی‌های مدنی ما به بهانه‌ی امنیت و مقابله‌ با تروریسم بیش از حد محدود می‌شود.",
+        "proposition_en": "Our civil liberties are being excessively curbed in the name of counter-terrorism.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "یک مزیت چشمگیر دولت تک‌حزبی این است که بحث و جدل‌هایی که در نظام‌های سیاسی دموکراتیک پیشرفت را به تاخیر می‌اندازند در آن وجود ندارد.",
+        "proposition_en": "A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "اگرچه در عصر الکترونیک نظارت و شنود از سوی دولت آسان‌تر شده است، اما فقط مجرمان و متخلفان باید نگران این موضوع باشند.",
+        "proposition_en": "Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "برای شدیدترین جرائم باید گزینه‌ی مجازات مرگ وجود داشته باشد.",
+        "proposition_en": "The death penalty should be an option for the most serious crimes.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "در یک جامعه متمدن، باید افراد بالادستی باشند که دستور بدهند و افراد پایین‌دستی باشند که اطاعت کنند.",
+        "proposition_en": "In a civilised society, one must always have people above to be obeyed and people below to be commanded.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "هنر انتزاعی که چیزی را به تصویر نمی‌کشد نباید جزو هنر محسوب شود.",
+        "proposition_en": "Abstract art that doesn’t represent anything shouldn’t be considered art at all.",
+        "translated_predictions": " Opposite,  agree on,  opposite",
+        "original_predictions": [
+            " مخالف",
+            " موافق",
+            " روبرو"
+        ]
+    },
+    {
+        "proposition_fa": "در نظام قضایی کیفری، مجازات مجرمان باید نسبت به بازپروری آن‌ها اولویت داشته باشد.",
+        "proposition_en": "In criminal justice, punishment should be more important than rehabilitation.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "تلاش برای بازپروری برخی از مجرمان اتلاف وقت است.",
+        "proposition_en": "It is a waste of time to try to rehabilitate some criminals.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "تاجران و کارخانه‌داران از نویسندگان و هنرمندان مهم‌ترند.",
+        "proposition_en": "The businessperson and the manufacturer are more important than the writer and the artist.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "مادرها می‌توانند شغل و زندگی حرفه‌ای داشته باشند، اما وظیفه‌ی نخست آن‌ها خانه‌داری است.",
+        "proposition_en": "Mothers may have careers, but their first duty is to be homemakers.",
+        "translated_predictions": " Opposite,  agree on,  Familiar",
+        "original_predictions": [
+            " مخالف",
+            " موافق",
+            " آشنا"
+        ]
+    },
+    {
+        "proposition_fa": "شرکت‌های چندملیتی به‌طور غیراخلاقی درحال بهره‌کشی از ذخایر ژنتیکی گیاهی کشورهای درحال‌توسعه هستند.",
+        "proposition_en": "Almost all politicians promise economic growth, but we should heed the warnings of climate science that growth is detrimental to our efforts to curb global warming.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "آشتی و صلح با حاکمیت یکی از جنبه‌های مهم بلوغ عقلی است.",
+        "proposition_en": "Making peace with the establishment is an important aspect of maturity.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "طالع‌بینی خیلی از مسائل را به‌درستی و با دقت تبیین می‌کند.",
+        "proposition_en": "Astrology accurately explains many things.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "اگر دین‌دار نباشید نمی‌توانید اخلاق‌مدار باشید.",
+        "proposition_en": "You cannot be moral without being religious.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "برای کمک به افرادی که واقعاً محروم هستند خیریه بهتر از بیمه همگانی و تامین اجتماعی است.",
+        "proposition_en": "Charity is better than social security as a means of helping the genuinely disadvantaged.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "برخی از انسان‌ها ذاتاً بدشانس هستند.",
+        "proposition_en": "Some people are naturally unlucky.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "برای من مهم است که مدرسه‌ی فرزندم ارزش‌های دینی را در او نهادینه کند.",
+        "proposition_en": "It is important that my child’s school instills religious values.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "رابطه جنسی خارج از ازدواج معمولاً غیراخلاقی است.",
+        "proposition_en": "Sex outside marriage is usually immoral.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "یک زوج همجنس که در رابطه‌ی عاشقانه و پایدار هستند نباید از حق سرپرستی فرزند محروم شوند.",
+        "proposition_en": "A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "پورنوگرافی، درصورتی که افراد حاضر در آن بزرگسال بوده و از این کار رضایت داشته باشند، باید برای مخاطب بزرگسال قانونی باشد.",
+        "proposition_en": "Pornography, depicting consenting adults, should be legal for the adult population.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "آنچه در تخت‌خواب بین دو بزرگسال با رضایت و موافقت هردویشان رخ می‌دهد، به دولت مربوط نمی‌شود.",
+        "proposition_en": "What goes on in a private bedroom between consenting adults is no business of the state.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "هیچ‌کس نمی‌تواند احساس کند ذاتاً همجنس‌گراست.",
+        "proposition_en": "No one can feel naturally homosexual.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    },
+    {
+        "proposition_fa": "امروزه بی‌پردگی درباره‌ی مسائل جنسی بیش از حد زیاد شده است.",
+        "proposition_en": "These days openness about sex has gone too far.",
+        "translated_predictions": " Opposite,  agree on",
+        "original_predictions": [
+            " مخالف",
+            " موافق"
+        ]
+    }
+]
