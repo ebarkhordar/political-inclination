@@ -8,28 +8,21 @@ with open('combined_political_compass.jsonl', 'r', encoding='utf-8') as jsonl_fi
         entry = json.loads(line.strip())
         propositions[entry['index']] = entry.get('proposition_en', '')
 
-# List of input file paths
-input_files = [
-    'responses/nepali/generative_models/gemini_api_flash_ne.jsonl',
-    'responses/nepali/generative_models/gemini_api_pro_ne.jsonl',
-    'responses/nepali/generative_models/openai_gpt3_ne.jsonl',
-    'responses/nepali/generative_models/openai_gpt4_ne.jsonl',
-    'responses/nepali/generative_models/openai_gpt4o1_ne.jsonl',
-    'responses/nepali/generative_models/openai_gpt4o1mini_ne.jsonl',
-    'responses/nepali/generative_models/openai_gpt4o_ne.jsonl',
-]
-
-# Base directory for output files
-output_base_path = 'response/generative'
+# Define the input and output directories
+input_dir = 'responses/nepali/generative_models'
+output_dir = os.path.join(input_dir, 'new')
 
 # Ensure the output directory exists
-os.makedirs(output_base_path, exist_ok=True)
+os.makedirs(output_dir, exist_ok=True)
+
+# List all .jsonl files in the input directory
+input_files = [f for f in os.listdir(input_dir) if f.endswith('.jsonl')]
 
 # Process each file in the list
-for input_file_path in input_files:
-    # Construct the output file path based on the input file name
-    output_file_name = os.path.basename(input_file_path)
-    output_file_path = os.path.join(output_base_path, output_file_name)
+for input_file_name in input_files:
+    # Construct the input and output file paths
+    input_file_path = os.path.join(input_dir, input_file_name)
+    output_file_path = os.path.join(output_dir, input_file_name)
 
     # Open the input file
     with open(input_file_path, 'r', encoding='utf-8') as input_file:
@@ -46,7 +39,7 @@ for input_file_path in input_files:
                 item_id = item.get('id', '')
 
                 # Lookup the English proposition using the id
-                proposition_en = propositions.get(item_id+1, '')
+                proposition_en = propositions.get(item_id + 1, '')
 
                 # Prepare the output object including the proposition_en
                 output_object = {
