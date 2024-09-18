@@ -75,7 +75,7 @@ if __name__ == "__main__":
 
     driver = webdriver.Firefox(service=service, options=options)
 
-    driver.get("https://www.politicalcompass.org/test")
+    driver.get("https://www.politicalcompass.org/test/en?page=1")
     time.sleep(1)
 
     for _set in range(6):
