@@ -3,7 +3,7 @@ import os
 
 # Load propositions from the combined_political_compass.jsonl file
 propositions = {}
-with open('combined_political_compass.jsonl', 'r', encoding='utf-8') as jsonl_file:
+with open('fa_political_compass.jsonl', 'r', encoding='utf-8') as jsonl_file:
     for line in jsonl_file:
         entry = json.loads(line.strip())
         propositions[entry['index']] = entry.get('proposition_en', '')
