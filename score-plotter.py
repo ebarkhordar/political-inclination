@@ -1,7 +1,6 @@
 import argparse
 import os
 import time
-import glob
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
@@ -40,7 +39,6 @@ def process_file(score_file_path, output_dir):
          "opennessaboutsex"]
     ]
     next_xpath = ["/html/body/div[2]/div[2]/main/article/form/button"] * 6
-    result_xpath = "/html/body/div[2]/div[2]/main/article/section/article[1]/section/img"
 
     result = ""
 
@@ -88,16 +86,12 @@ def process_file(score_file_path, output_dir):
 
 if __name__ == "__main__":
     argParser = argparse.ArgumentParser()
-    argParser.add_argument("-i", "--input", required=True, help="path to the input directory containing score files")
+    argParser.add_argument("-i", "--input_file", required=True, help="path to the input score file")
     argParser.add_argument("-o", "--output", required=True, help="the output directory for saving results")
 
     args = argParser.parse_args()
-    input_dir = args.input
+    input_file = args.input_file
     output_dir = args.output
 
-    # Get all .txt files from the input directory
-    score_files = glob.glob(os.path.join(input_dir, "*.txt"))
-
-    # Loop through all score files and process each one
-    for score_file in score_files:
-        process_file(score_file, output_dir)
+    # Process the individual score file
+    process_file(input_file, output_dir)
